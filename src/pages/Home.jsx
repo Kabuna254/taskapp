@@ -11,7 +11,7 @@ export default function Home() {
           Your simple, fast, and theme-friendly task manager built with React.  
           Stay focused. Stay organized. Get things done.
         </p>
-        <Button variant="default"><a href = "https://danielkabuna.vercel.app">Get Started</a></Button>
+        <Button variant="default">Get Started</Button>
       </div>
       <div className="flex flex-col items-center gap-6">
         <TaskManager />
