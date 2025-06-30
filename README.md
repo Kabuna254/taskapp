@@ -73,7 +73,7 @@ Feel free to fork the project and submit a pull request! Here's how to contribut
 
 ---
 
-To visit my application: click TaskAPP(https://taskapp-025.vercel.app/)
+To visit my application: click [TaskAPP](https://taskapp-025.vercel.app/)
 
 ---
 
